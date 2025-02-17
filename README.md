@@ -43,12 +43,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img height="150" src="https://seeklogo.com/images/F/flamengo-escudo-crf-logo-C2526FED8B-seeklogo.com.png"  />
-</div>
-
 
 ###
 
